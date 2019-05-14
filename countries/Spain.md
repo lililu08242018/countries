@@ -1,14 +1,14 @@
 ##Spain
-## population
+## population : 46,733,038
 
 
-## capital
+## capital : Madrid
 
  
-## official language
+## official language : Spanish
 
 
-## interesting trivia
+## interesting trivia : The stapler was invented in Spain
 
 
 
