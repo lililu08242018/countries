@@ -6,7 +6,7 @@
 
  
 ## official language
-
+English and French
 
 ## interesting trivia
 
